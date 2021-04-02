@@ -1,0 +1,5 @@
+include ':calculator'
+include ':p0161_dynamiclayout'
+include ':p0151_contextmenu'
+include ':app'
+rootProject.name = "practice"
